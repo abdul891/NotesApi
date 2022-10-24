@@ -3,12 +3,14 @@ Crreate your personal notes
 
 https://notes-nodeapi-app.herokuapp.com/
 
-## Project setup
+## API Endpoint
+
+### Project setup
 ```
 npm install
 ```
 
-### Run
+#### Run
 ```
 node index.js
 ```
