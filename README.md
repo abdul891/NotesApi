@@ -5,10 +5,14 @@ https://notes-nodeapi-app.herokuapp.com/
 
 ## API Endpoint
 
-| Endpoint     |       |
-| :------------ |   :---:       |
+|Request | Endpoint     |       |
+| :------------| :------------ |   :---:       |
 |  /user/signup    | User Registration  | 
-|  /user/signin      | User Login       |  
+|  /user/signin      | User Login       | 
+|  /user/signup    | User Registration  | 
+|  /notes      | User Login       | 
+|  /user/signup    | User Registration  | 
+|  /user/signin      | User Login       | 
 
 ## Project setup
 ```
