@@ -5,12 +5,12 @@ https://notes-nodeapi-app.herokuapp.com/
 
 ## API Endpoint
 
-### Project setup
+## Project setup
 ```
 npm install
 ```
 
-#### Run
+### Run
 ```
 node index.js
 ```
